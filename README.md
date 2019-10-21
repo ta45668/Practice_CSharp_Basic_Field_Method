@@ -10,3 +10,7 @@
 - 自訂汽車前後移動與左右轉方法
 - 按鈕添加 "Event Trigger" 並點選 "Add New Event Type > Update Selected"
 - 按鈕按下後會執行前後移動與左右旋轉效果
+
+請參考這兩份 API
+- https://docs.unity3d.com/ScriptReference/Transform.Translate.html
+- https://docs.unity3d.com/ScriptReference/Transform.Rotate.html
